@@ -14,3 +14,7 @@ Un petit projet web permettant d'afficher aléatoirement des citations inspirant
 - CSS3
 - JavaScript
 - API externe
+
+## 🧑‍💻 Comment l'utiliser ?
+
+Le projet est testable à l'url : https://laharls.github.io/Quote-generator/
